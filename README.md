@@ -2,6 +2,12 @@
 
 Obsidianに関することで質問に答えます。日本語です。
 
+## 投稿方法
+
+Issuesからどうぞ。
+
+![image](https://github.com/tadashi-aikawa/obsidian-questions/assets/9500018/d4a76efd-b889-47d6-93a6-b20a7f027b65)
+
 ## ターゲット
 
 ### tadashi-aikawaが開発しているObsidianプラグイン
