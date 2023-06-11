@@ -26,6 +26,8 @@ Issuesからどうぞ。
     - 多言語対応のオートコンプリートプラグイン
 - [Another Quick Switcher](https://github.com/tadashi-aikawa/obsidian-another-quick-switcher)
     - もう1つの選択肢、高機能なクイックスウィッチャー
+- [Old Note Admonitor](https://github.com/tadashi-aikawa/obsidian-old-note-admonitor)
+    - 古くなったノートに対して警告を表示
 - [Silhouette](https://github.com/tadashi-aikawa/silhouette)
     - シンプルでクレバーなタスク管理プラグイン
 - [Shukuchi](https://github.com/tadashi-aikawa/shukuchi)
