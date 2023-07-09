@@ -32,6 +32,8 @@ Issuesからどうぞ。
     - シンプルでクレバーなタスク管理プラグイン
 - [Shukuchi](https://github.com/tadashi-aikawa/shukuchi)
     - リンク先へ瞬時に時間する忍者のようなプラグイン
+- [Obsidian Free Writing](https://github.com/tadashi-aikawa/obsidian-free-writing)
+    - ツイッターのような形式でフリーライティングに近い体験を提供するプラグイン
 
 ### Obsidianに関すること
 
