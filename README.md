@@ -32,8 +32,8 @@ Issuesからどうぞ。
     - シンプルでクレバーなタスク管理プラグイン
 - [Shukuchi](https://github.com/tadashi-aikawa/shukuchi)
     - リンク先へ瞬時に時間する忍者のようなプラグイン
-- [Obsidian Free Writing](https://github.com/tadashi-aikawa/obsidian-free-writing)
-    - ツイッターのような形式でフリーライティングに近い体験を提供するプラグイン
+- [Mobile First Daily Interface (MFDI)](https://github.com/tadashi-aikawa/mobile-first-daily-interface)
+    - モバイルに最適なインターフェースでデイリーノートを扱うプラグイン
 
 ### Obsidianに関すること
 
