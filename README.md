@@ -28,12 +28,22 @@ Issuesからどうぞ。
     - もう1つの選択肢、高機能なクイックスウィッチャー
 - [Old Note Admonitor](https://github.com/tadashi-aikawa/obsidian-old-note-admonitor)
     - 古くなったノートに対して警告を表示
-- [Silhouette](https://github.com/tadashi-aikawa/silhouette)
-    - シンプルでクレバーなタスク管理プラグイン
 - [Shukuchi](https://github.com/tadashi-aikawa/shukuchi)
     - リンク先へ瞬時に時間する忍者のようなプラグイン
+- [Silhouette](https://github.com/tadashi-aikawa/silhouette)
+    - シンプルでクレバーなタスク管理プラグイン
+    - ⚠️ 日本語ユーザー用であるため、機能要望やバグ報告なら上記リポジトリのIssuesを推奨します (日本語でやりとりできるため)
 - [Mobile First Daily Interface (MFDI)](https://github.com/tadashi-aikawa/mobile-first-daily-interface)
     - モバイルに最適なインターフェースでデイリーノートを扱うプラグイン
+    - ⚠️ 日本語ユーザー用であるため、機能要望やバグ報告なら上記リポジトリのIssuesを推奨します (日本語でやりとりできるため)
+
+### tadashi-aikawaが開発しているObsidianプラグイン以外
+
+- [Obsidian Tempura](https://github.com/tadashi-aikawa/obsidian-tempura)
+    - TemplaterのUser functions集であり、統合開発環境でもあるフレームワーク
+    - ⚠️ 日本語ユーザー用であるため、機能要望やバグ報告なら上記リポジトリのIssuesを推奨します (日本語でやりとりできるため)
+- [Obsidian Templater Scripts](https://github.com/tadashi-aikawa/obsidian-templater-scripts)
+    - [Obsidian Tempura](https://github.com/tadashi-aikawa/obsidian-tempura) を使ってtadashi-aikawaが実際に管理しているプロジェクト (サンプルとして参考になれば)
 
 ### Obsidianに関すること
 
