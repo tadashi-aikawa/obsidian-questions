@@ -39,11 +39,10 @@ Issuesからどうぞ。
 
 ### tadashi-aikawaが開発しているObsidianプラグイン以外
 
-- [Obsidian Tempura](https://github.com/tadashi-aikawa/obsidian-tempura)
-    - TemplaterのUser functions集であり、統合開発環境でもあるフレームワーク
-    - ⚠️ 日本語ユーザー用であるため、機能要望やバグ報告なら上記リポジトリのIssuesを推奨します (日本語でやりとりできるため)
-- [Obsidian Templater Scripts](https://github.com/tadashi-aikawa/obsidian-templater-scripts)
-    - [Obsidian Tempura](https://github.com/tadashi-aikawa/obsidian-tempura) を使ってtadashi-aikawaが実際に管理しているプロジェクト (サンプルとして参考になれば)
+- [Carnelian](https://github.com/tadashi-aikawa/carnelian)
+    - Obsidianプラグインの機構を使って自分だけの最強拡張を作るキット
+    - tadashi-aikawaのコマンド実装済
+    - リポジトリのIssuesでも構いません
 
 ### Obsidianに関すること
 
